@@ -4,4 +4,7 @@ program-BESE(day)
 
 #include<stdio.h>
 #include<conio.h>
+float r;
+void input();
+void Area();
 
