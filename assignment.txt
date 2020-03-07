@@ -13,3 +13,9 @@ input();
 Area();
 getch();
 }
+
+void input()
+{
+printf("enter radius=");
+scanf("%f",&r);
+}
