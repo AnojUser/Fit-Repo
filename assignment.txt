@@ -7,4 +7,6 @@ program-BESE(day)
 float r;
 void input();
 void Area();
+void main()
+{
 
