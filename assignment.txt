@@ -9,4 +9,7 @@ void input();
 void Area();
 void main()
 {
-
+input();
+Area();
+getch();
+}
